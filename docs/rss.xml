@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Conicidad Invertida</title>
-        <link>https://example.com/</link>
+        <link>https://javierix.github.io/conicidad_invertida/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.78.1 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 26 Jan 2021 19:55:56 &#43;0100</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2021 20:37:38 &#43;0100</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://javierix.github.io/conicidad_invertida/rss.xml" />
         
         
             <item>
                 <title>Tatamiento con Polisulfuro de cal</title>
-                <link>https://example.com/posts/20201227/tatamientopolisulfuro/</link>
-                <guid isPermaLink="true">https://example.com/posts/20201227/tatamientopolisulfuro/</guid>
+                <link>https://javierix.github.io/conicidad_invertida/posts/20201227/tatamientopolisulfuro/</link>
+                <guid isPermaLink="true">https://javierix.github.io/conicidad_invertida/posts/20201227/tatamientopolisulfuro/</guid>
                 <pubDate>Sun, 27 Dec 2020 10:56:38 &#43;0100</pubDate>
                 
                     <author>xavierix@gmail.com (Xavierix)</author>
@@ -39,7 +39,7 @@
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
                     <description>&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201227/Lagar01.jpg&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201227/Lagar01.jpg&#34;
          alt=&#34;arboles_en_lagar&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -59,8 +59,8 @@ Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratam
         
             <item>
                 <title>Arce palmatum ‘Osakazuki’ de semilla</title>
-                <link>https://example.com/posts/20201213/palmatum_osakazuki/</link>
-                <guid isPermaLink="true">https://example.com/posts/20201213/palmatum_osakazuki/</guid>
+                <link>https://javierix.github.io/conicidad_invertida/posts/20201213/palmatum_osakazuki/</link>
+                <guid isPermaLink="true">https://javierix.github.io/conicidad_invertida/posts/20201213/palmatum_osakazuki/</guid>
                 <pubDate>Sun, 13 Dec 2020 00:00:00 &#43;0000</pubDate>
                 
                     <author>xavierix@gmail.com (Xavierix)</author>
@@ -68,7 +68,7 @@ Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratam
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
                     <description>&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201213/arce_palmatum_osakazuki.jpg&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201213/arce_palmatum_osakazuki.jpg&#34;
          alt=&#34;palmatum_osakazuki&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -91,13 +91,13 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum &amp;lsquo;Os
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/shortcodes/">shortcodes</category>
+                                    <category domain="https://javierix.github.io/conicidad_invertida/tags/shortcodes/">shortcodes</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/privacy/">privacy</category>
+                                    <category domain="https://javierix.github.io/conicidad_invertida/tags/privacy/">privacy</category>
                                 
                             
                         
@@ -107,8 +107,8 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum &amp;lsquo;Os
         
             <item>
                 <title>Los esquejes de ficus</title>
-                <link>https://example.com/posts/20201208/esquejes_ficus/</link>
-                <guid isPermaLink="true">https://example.com/posts/20201208/esquejes_ficus/</guid>
+                <link>https://javierix.github.io/conicidad_invertida/posts/20201208/esquejes_ficus/</link>
+                <guid isPermaLink="true">https://javierix.github.io/conicidad_invertida/posts/20201208/esquejes_ficus/</guid>
                 <pubDate>Tue, 08 Dec 2020 00:00:00 &#43;0000</pubDate>
                 
                     <author>xavierix@gmail.com (Xavierix)</author>
@@ -116,7 +116,7 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum &amp;lsquo;Os
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
                     <description>&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201208/Antes_de_alambrar.png&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201208/Antes_de_alambrar.png&#34;
          alt=&#34;Tiger Bark&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -137,13 +137,13 @@ Hoy quería presentar algunos de los esquejes de ficus que he ido haciendo a lo 
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/shortcodes/">shortcodes</category>
+                                    <category domain="https://javierix.github.io/conicidad_invertida/tags/shortcodes/">shortcodes</category>
                                 
                             
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/privacy/">privacy</category>
+                                    <category domain="https://javierix.github.io/conicidad_invertida/tags/privacy/">privacy</category>
                                 
                             
                         
@@ -153,15 +153,15 @@ Hoy quería presentar algunos de los esquejes de ficus que he ido haciendo a lo 
         
             <item>
                 <title>‘Olive Kitteridge’, Elizabeth Strout</title>
-                <link>https://example.com/posts/20201103/olivekitteridgeelizabethstrout/</link>
-                <guid isPermaLink="true">https://example.com/posts/20201103/olivekitteridgeelizabethstrout/</guid>
+                <link>https://javierix.github.io/conicidad_invertida/posts/20201103/olivekitteridgeelizabethstrout/</link>
+                <guid isPermaLink="true">https://javierix.github.io/conicidad_invertida/posts/20201103/olivekitteridgeelizabethstrout/</guid>
                 <pubDate>Fri, 06 Nov 2020 21:10:26 &#43;0100</pubDate>
                 
                     <author>xavierix@gmail.com (Xavierix)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;img src=&#34;https://example.com/posts/20201103/portada.jpg&#34; width=&#34;500&#34; alt=&#34;portada&#34;&gt;
+                    <description>&lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201103/portada.jpg&#34; width=&#34;500&#34; alt=&#34;portada&#34;&gt;
 &lt;div class=text-justify&gt;
 Hace unas semanas comenzó a aparecer en distintos medios la reseña de  un libro que me llamó mucho la atención. Su título “Me llamo Lucy Barton”, su autora Elizabteh Strout. Lo calificaban como una obra íntima, muy personal, de sensaciones y sentimientos con las que el lector conocía a través de las palabras el mundo interior de sus protagonistas.
 &lt;p&gt;Como a mí me gustan mucho este tipo de historias, investigué un poco sobre la autora y me encontré con que una de sus novelas destacaba sobre el resto de su obra. Había ganado, además,  el premio Pulitzer en el año 2009. Esa novela era “Olive Kitteridge” y las reseñas que leí sobre ella coincidian en que era una historia donde los pequeños fragmentos de realidad cobraban un cierto grado de poesía.&lt;/p&gt;

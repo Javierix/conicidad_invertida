@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Conicidad Invertida</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-01-26T19:55:56&#43;01:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2021-01-26T20:37:38&#43;01:00</updated>
+    <id>https://javierix.github.io/conicidad_invertida/</id>
+    <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://javierix.github.io/conicidad_invertida/atom.xml" />
     <author>
             <name>Xavierix</name>
-            <uri>https://example.com/</uri>
+            <uri>https://javierix.github.io/</uri>
             
                 <email>xavierix@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.78.1">Hugo</generator>
         <entry>
             <title type="text">Tatamiento con Polisulfuro de cal</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/20201227/tatamientopolisulfuro/" />
-            <id>https://example.com/posts/20201227/tatamientopolisulfuro/</id>
+            <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/posts/20201227/tatamientopolisulfuro/" />
+            <id>https://javierix.github.io/conicidad_invertida/posts/20201227/tatamientopolisulfuro/</id>
             <updated>2021-01-26T19:12:26&#43;01:00</updated>
             <published>2020-12-27T10:56:38&#43;01:00</published>
             <author>
@@ -28,14 +28,14 @@
                     <email>xavierix@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201227/Lagar01.jpg&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201227/Lagar01.jpg&#34;
          alt=&#34;arboles_en_lagar&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
 Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratamiento insecticida que reduzca al máximo la contidad de larvas y bichitos que se puedan esconder en los recobecos de la corteza.&lt;/p&gt;</summary>
             
                 <content type="html">&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201227/Lagar01.jpg&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201227/Lagar01.jpg&#34;
          alt=&#34;arboles_en_lagar&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -55,8 +55,8 @@ Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratam
     
         <entry>
             <title type="text">Arce palmatum ‘Osakazuki’ de semilla</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/20201213/palmatum_osakazuki/" />
-            <id>https://example.com/posts/20201213/palmatum_osakazuki/</id>
+            <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/posts/20201213/palmatum_osakazuki/" />
+            <id>https://javierix.github.io/conicidad_invertida/posts/20201213/palmatum_osakazuki/</id>
             <updated>2021-01-26T19:12:04&#43;01:00</updated>
             <published>2020-12-13T00:00:00&#43;00:00</published>
             <author>
@@ -67,7 +67,7 @@ Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratam
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Breve descripción...</summary>
             
                 <content type="html">&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201213/arce_palmatum_osakazuki.jpg&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201213/arce_palmatum_osakazuki.jpg&#34;
          alt=&#34;palmatum_osakazuki&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -90,13 +90,13 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum &amp;lsquo;Os
                             
                             
                             
-                                <category scheme="https://example.com/tags/shortcodes/" term="shortcodes" label="shortcodes" />
+                                <category scheme="https://javierix.github.io/conicidad_invertida/tags/shortcodes/" term="shortcodes" label="shortcodes" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/privacy/" term="privacy" label="privacy" />
+                                <category scheme="https://javierix.github.io/conicidad_invertida/tags/privacy/" term="privacy" label="privacy" />
                             
                         
                     
@@ -106,8 +106,8 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum &amp;lsquo;Os
     
         <entry>
             <title type="text">Los esquejes de ficus</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/20201208/esquejes_ficus/" />
-            <id>https://example.com/posts/20201208/esquejes_ficus/</id>
+            <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/posts/20201208/esquejes_ficus/" />
+            <id>https://javierix.github.io/conicidad_invertida/posts/20201208/esquejes_ficus/</id>
             <updated>2021-01-26T19:10:42&#43;01:00</updated>
             <published>2020-12-08T00:00:00&#43;00:00</published>
             <author>
@@ -118,7 +118,7 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum &amp;lsquo;Os
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Breve descripción...</summary>
             
                 <content type="html">&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://example.com/posts/20201208/Antes_de_alambrar.png&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201208/Antes_de_alambrar.png&#34;
          alt=&#34;Tiger Bark&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 
@@ -139,13 +139,13 @@ Hoy quería presentar algunos de los esquejes de ficus que he ido haciendo a lo 
                             
                             
                             
-                                <category scheme="https://example.com/tags/shortcodes/" term="shortcodes" label="shortcodes" />
+                                <category scheme="https://javierix.github.io/conicidad_invertida/tags/shortcodes/" term="shortcodes" label="shortcodes" />
                             
                         
                             
                             
                             
-                                <category scheme="https://example.com/tags/privacy/" term="privacy" label="privacy" />
+                                <category scheme="https://javierix.github.io/conicidad_invertida/tags/privacy/" term="privacy" label="privacy" />
                             
                         
                     
@@ -155,8 +155,8 @@ Hoy quería presentar algunos de los esquejes de ficus que he ido haciendo a lo 
     
         <entry>
             <title type="text">‘Olive Kitteridge’, Elizabeth Strout</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/20201103/olivekitteridgeelizabethstrout/" />
-            <id>https://example.com/posts/20201103/olivekitteridgeelizabethstrout/</id>
+            <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/posts/20201103/olivekitteridgeelizabethstrout/" />
+            <id>https://javierix.github.io/conicidad_invertida/posts/20201103/olivekitteridgeelizabethstrout/</id>
             <updated>2021-01-26T19:09:57&#43;01:00</updated>
             <published>2020-11-06T21:10:26&#43;01:00</published>
             <author>
@@ -166,7 +166,7 @@ Hoy quería presentar algunos de los esquejes de ficus que he ido haciendo a lo 
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Hace unas semanas comenzó a aparecer en distintos medios la reseña de un libro que me llamó mucho la atención. Su título “Me llamo Lucy Barton”, su autora Elizabteh Strout. Lo calificaban como una obra íntima, muy personal, de sensaciones y sentimientos con las que el lector conocía a través de las palabras el mundo interior de sus protagonistas.</summary>
             
-                <content type="html">&lt;img src=&#34;https://example.com/posts/20201103/portada.jpg&#34; width=&#34;500&#34; alt=&#34;portada&#34;&gt;
+                <content type="html">&lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201103/portada.jpg&#34; width=&#34;500&#34; alt=&#34;portada&#34;&gt;
 &lt;div class=text-justify&gt;
 Hace unas semanas comenzó a aparecer en distintos medios la reseña de  un libro que me llamó mucho la atención. Su título “Me llamo Lucy Barton”, su autora Elizabteh Strout. Lo calificaban como una obra íntima, muy personal, de sensaciones y sentimientos con las que el lector conocía a través de las palabras el mundo interior de sus protagonistas.
 &lt;p&gt;Como a mí me gustan mucho este tipo de historias, investigué un poco sobre la autora y me encontré con que una de sus novelas destacaba sobre el resto de su obra. Había ganado, además,  el premio Pulitzer en el año 2009. Esa novela era “Olive Kitteridge” y las reseñas que leí sobre ella coincidian en que era una historia donde los pequeños fragmentos de realidad cobraban un cierto grado de poesía.&lt;/p&gt;
