@@ -1,0 +1,13 @@
+author:
+  name: Erwan Normand
+baseURL: https://example.com
+languageCode: en
+menu:
+  main:
+    - name: About
+      url: /about
+params:
+  description: Example site for the Hugo's Blogpaper theme
+  subtitleLength: 50
+title: Blogpaper
+theme: Blogpaper
