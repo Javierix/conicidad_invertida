@@ -5,7 +5,7 @@ authors = [
 ]
 title = "Los esquejes de ficus"
 date = "2020-12-08"
-draft= true
+draft= false
 description = "Breve descripción..."
 tags = [
     "shortcodes",

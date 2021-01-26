@@ -1,7 +1,7 @@
 ---
 title: "'Olive Kitteridge', Elizabeth Strout"
 date: 2020-11-06T21:10:26+01:00
-draft: true
+draft: false
 sidebar: true # Disable sidebar
 ---
 <img src="/posts/20201103/portada.jpg" width="500" alt="portada">

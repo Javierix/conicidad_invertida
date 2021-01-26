@@ -1,0 +1,18 @@
+
+main,
+footer,
+.nav-container {
+  display: block;
+  margin: 0 auto;
+  max-width: 1000px;
+  width: 100%;
+}
+
+
+.post-title, .catalogue-title {
+  color: #283d7e;
+}
+
+.nav a {
+  color: #0768ce;
+}

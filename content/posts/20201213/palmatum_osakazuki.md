@@ -5,7 +5,7 @@ authors = [
 ]
 title = "Arce palmatum 'Osakazuki' de semilla"
 date = "2020-12-13"
-draft= true
+draft= false
 description = "Breve descripción..."
 tags = [
     "shortcodes",
