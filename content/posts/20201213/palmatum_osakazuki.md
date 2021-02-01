@@ -20,7 +20,7 @@ En el año 2010 plantamos en la finca un ejemplar de Arce palmatum 'Osakazuki'. 
 Es curioso como la coloración otoñal cambia en función del clima que se produzca ese año en la época del otoño. Vengo observando que los colores son mucho más intensos si recibe más luz solar. Sin embargo, si ese año comienza a llover pronto, por ejemplo a mediados de octubre, la coloración es menos intensa y menos duradera, las hojas se caen antes.
 
 Pues bien, como esta especie me gusta tanto decidí crear varios ejemplares desde semilla. No tuve mucho exito ya que el porcentaje de germinación siempre fue muy bajo, pero en los tres últimos años fui consiguendo varios plantoncitos y ahora tengo cuatro. Tres de ellos están permantemente en el exterior sin embargo otro lo tengo en interior, en una galería, y con él quiero hacer una serie de pruebas.
-
+{{< figure src="/conicidad_invertida/images/Lagar01.jpg" width="900" alt="palmatum_osakazuki" >}}
 
 
 Como se puede ver, este plantoncito a mediados de diciembre no ha cambiado el color de las hojas ni las ha tirado de todo. Al estar en un lugar resguardado al margen de las corrientes de aire y donde la temperatura no baja de de 15º centígrados la otoñada la ha notado muy suave. Los arces como casi todas las especies de árboles caducos necesitan sentir las bajadas de temperaturas otoñales e invernales para que la brotación primaveral sea correcta, es más, necesitan notar temperaturas muy bajas para que se aletarguen y realicen una parada en su metabolismo.
