@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Conicidad Invertida</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2021-02-01T14:11:55&#43;01:00</updated>
+    <updated>2021-02-01T14:54:16&#43;01:00</updated>
     <id>https://javierix.github.io/conicidad_invertida/</id>
     <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/" />
     <link rel="self" type="application/atom&#43;xml" href="https://javierix.github.io/conicidad_invertida/atom.xml" />
@@ -57,7 +57,7 @@ Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratam
             <title type="text">Arce palmatum ‘Osakazuki’ de semilla</title>
             <link rel="alternate" type="text/html" href="https://javierix.github.io/conicidad_invertida/posts/20201213/palmatum_osakazuki/" />
             <id>https://javierix.github.io/conicidad_invertida/posts/20201213/palmatum_osakazuki/</id>
-            <updated>2021-01-26T19:12:04&#43;01:00</updated>
+            <updated>2021-02-01T14:53:52&#43;01:00</updated>
             <published>2020-12-13T00:00:00&#43;00:00</published>
             <author>
                     <name>Xavierix</name>
@@ -67,7 +67,7 @@ Cuando llega el invierno a nuestros bonsáis es interesante realizarle un tratam
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Breve descripción...</summary>
             
                 <content type="html">&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/posts/20201213/arce_palmatum_osakazuki.jpg&#34;
+    &lt;img src=&#34;https://javierix.github.io/conicidad_invertida/conicidad_invertida/images/arce_palmatum_osakazuki.jpg&#34;
          alt=&#34;palmatum_osakazuki&#34; width=&#34;900&#34;/&gt; 
 &lt;/figure&gt;
 

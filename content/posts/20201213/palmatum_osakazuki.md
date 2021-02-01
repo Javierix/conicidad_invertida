@@ -14,7 +14,7 @@ tags = [
 
 +++
 
-{{< figure src="/posts/20201213/arce_palmatum_osakazuki.jpg" width="900" alt="palmatum_osakazuki" >}}
+{{< figure src="/conicidad_invertida/images/arce_palmatum_osakazuki.jpg" width="900" alt="palmatum_osakazuki" >}}
 En el año 2010 plantamos en la finca un ejemplar de Arce palmatum 'Osakazuki'. Como en muchos arces la coloración de las hojas va cambiando a lo largo del año. Este tiene una brotación verde claro que se va haciendo más oscura a medida que la hoja madura, pasa todo el verano y parte del otoño con ese color y cuando empieza a llegar el frio y las horas de luz disminuyen hace un virado completo pasando a un rojo carmín espectacular. <!--more--> En esta foto (donde la calidad es mas bien escasa) se puede ver el árbol a finales del mes de noviembre con el color ya totalmente cambiado y donde ya se le han empezado a caer las hojas.
 
 Es curioso como la coloración otoñal cambia en función del clima que se produzca ese año en la época del otoño. Vengo observando que los colores son mucho más intensos si recibe más luz solar. Sin embargo, si ese año comienza a llover pronto, por ejemplo a mediados de octubre, la coloración es menos intensa y menos duradera, las hojas se caen antes.
